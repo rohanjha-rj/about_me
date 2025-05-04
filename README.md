@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @rohanjha-rj
+- 👀 I’m interested in web developing and coding.
+- 🌱 I’m currently learning AI/ML.
+- 💞️ I’m looking to collaborate on multiple web developing projects.
+- 📫 You can me on Linkedin @https://www.linkedin.com/in/rohanjharj/ 
+- 😄 Pronouns: he/him.
+- ⚡ Fun fact: A boy who likes to code with a humurous life.
